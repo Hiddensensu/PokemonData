@@ -68,10 +68,10 @@ This supports both the EDA findings and the model’s learned relationships.
 
 ## Tools & Libraries
 - Python
-- pandas
+- Pandas
 - NumPy
-- seaborn / matplotlib
-- scikit-learn
+- Seaborn / Matplotlib
+- Scikit-learn
 - SciPy
 
 ## Project Structure
