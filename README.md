@@ -73,3 +73,9 @@ This supports both the EDA findings and the model’s learned relationships.
 - Seaborn / Matplotlib
 - Scikit-learn
 - SciPy
+
+## Key Takeaways
+- Offensive capability is the most informative predictor of Legendary status
+- Generation alone is weak signal → matches franchise design (Legendaries appear across gens)
+- Balanced class weighting is critical for rare-class recall
+- High performance achieved with simple, interpretable models
