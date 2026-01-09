@@ -73,5 +73,3 @@ This supports both the EDA findings and the model’s learned relationships.
 - Seaborn / Matplotlib
 - Scikit-learn
 - SciPy
-
-## Project Structure
